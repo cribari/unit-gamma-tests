@@ -10,10 +10,15 @@ JOURNAL: Journal of Applied Statistics
 FILES: 
 
 README.txt : this file, contains instructions
+
 data_application-1.mat : data 
+
 application-1.ox : Ox code for reproducing some of the resuts in Section 5.1 
+
 application-1.out : output
+
 application-2.ox : Ox code to test a restriction on the mean submodel parameters
+
 application-2.out : output
 
 PROGRAMMING LANGUAGE: Ox - see https://www.doornik.com (OBS. The console version of Ox is freely distributed for academic use. It is currently available for Windows, Linux, OS-X (Apple), and several Unix platforms.) 
