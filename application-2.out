@@ -1,0 +1,59 @@
+
+Ox Console version 8.02 (Linux_64) (C) J.A. Doornik, 1994-2018
+This version may be used for academic research and teaching only
+
+OX PROGRAM: application-2.ox
+
+OX VERSION: 802
+
+DISTRIBUTION: Unit Gamma
+
+FILE THAT CONTAINS THE DATA: data_application-1.mat
+
+SAMPLE SIZE: 44
+
+TOTAL NUMBER OF COVARIATES: 7
+
+Convergence status, unrestricted: Strong convergence
+
+Convergence status, restricted: Strong convergence
+
+Number of parameters in the submodel for mu (p): 4
+
+Number of parameters in the submodel for phi (q): 3
+
+Number of restrictions (l): 1
+
+Null hypothesis H0: (beta_4) = 0
+
+Parameter estimates (beta, delta):
+
+
+                beta_1  beta_2  beta_3  beta_4
+estimate         1.062  -0.663   0.474  -0.476
+standard error   0.150   0.150   0.086   0.086
+
+
+               delta_1 delta_2 delta_3
+estimate         1.603   2.030   0.625
+standard error   0.204   0.241   0.241
+
+Test statistics: 
+                  w        w*       w**
+statistic   15.1460   12.3068   12.4398
+p-value      0.0001    0.0005    0.0004
+
+Pseudo-R^2: 
+        R2       R2c      R2LR     R2LRc
+    0.6066    0.5429    0.8559    0.8209
+
+Model selection criteria: 
+       AIC       BIC      AICc
+ -124.0121 -111.5228 -120.9010
+
+DATE: 26-08-2019
+
+TIME: 22:00:26
+
+EXECUTION TIME:  0.02
+
